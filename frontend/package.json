@@ -23,7 +23,7 @@
     "overlay-navbar": "^1.2.3",
     "react": "^17.0.2",
 "react-dom": "^17.0.2",
-"@types/react": "^17.0.85"
+"@types/react": "^17.0.85",
     "react-alert": "^7.0.3",
     "react-alert-template-basic": "^1.0.2",
     "react-chartjs-2": "^5.2.0",
